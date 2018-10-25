@@ -22,20 +22,21 @@
 
 	background-image: url("assets/images/cuzco2.jpg");
 	background-size: cover;
-	padding: 20px;
+	padding: 40px 0;
 	text-align: right;
+
 }
 
 #div2 p{
 
 text-align: right;
 color: white;
-border: none;
 }
 
 #div2 h2{
 	font-family: 'El Rio Lobo';
 	color:gold;
+	margin:0;
 	
 }
 
@@ -47,6 +48,7 @@ border: none;
 
 	display: block;
 	margin: auto;
+	padding: 20px;
 
 }
 
